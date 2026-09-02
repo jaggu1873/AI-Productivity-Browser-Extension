@@ -1,3 +1,4 @@
+
 # AI Productivity Browser Extension
 
 ## Overview
@@ -25,4 +26,6 @@ git clone https://github.com/Atomiicradius/AI_Browser_Extension.git
 - Use clear commit messages and branch names
 - See `/docs/contributing.md` for guidelines (to be added)
 
+
+=======
 
